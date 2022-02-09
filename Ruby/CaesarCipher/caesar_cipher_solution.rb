@@ -15,4 +15,4 @@ def caesar_cipher(message, shift = 0)
     encrypt.join("")
 end 
 
-puts caesar_cipher("What a string!", 5.3)
+puts caesar_cipher("What a string!", 5)
