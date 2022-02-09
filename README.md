@@ -1,2 +1,2 @@
 # TheOdinProject
-Repository dedicated for The Odin Project exercises and projects
+Repository dedicated for The Odin Project projects
